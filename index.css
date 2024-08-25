@@ -1,0 +1,86 @@
+.boton1{
+    position: absolute;
+    padding: 10px;
+    top: 50%;
+    left: 620px;
+}
+.boton1:hover{
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border: 2px solid black;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.fixed{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 90px;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    padding-top: 25px;
+    font-size: 20px;
+    line-height: 10px;
+}
+.boton{
+    margin-top: 20px;
+    border: 2px solid black;
+    padding: 20px;
+    padding-right: 70px;
+    padding-left: 70px;
+    margin-bottom: 300px;
+    background-color: white;
+}
+.cuadro{
+    width: 100%;
+    height: 150px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+#contacto{
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: -10px;
+}
+.form{
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid black;
+    border-radius: none;
+    padding: 10px;
+    box-shadow: none;
+    margin-top: 20px;
+}
+.ponche{
+    font-size: 60px;
+    font-weight: 700;
+}
+#borde{
+    margin-top: 40px;
+    width: auto;
+    border-bottom: 1px solid black;
+}
+.letra{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.boton:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+.letra:hover{
+    cursor: pointer;
+    color: rgba(240, 240, 98, 0.829);
+}
+.ponche:hover{
+    cursor: pointer;
+    color: rgba(240, 240, 98, 0.829);
+}
